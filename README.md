@@ -1,5 +1,5 @@
 # vaultjbosstool
 Java implementation to manage JBoss vault
 
-- Attributes recover passwords
+- Recovery attribute passwords
 - Convert JKS to JCEKS
