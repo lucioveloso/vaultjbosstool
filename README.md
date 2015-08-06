@@ -12,7 +12,7 @@ Esta ferramenta tem como funcionalidade:
 
 Howto use / Como usar:
 
-console java -jar vaultjbosstool.jar
+shell# java -jar vaultjbosstool.jar
 
 WARNING: This tool will convert JKS to JCEKS if your keystore is not a JCEKS.
 
