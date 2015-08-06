@@ -46,3 +46,7 @@ Block: blocob Attribute: atributo Pass: securedpass
 # Notes
 Older versions of PicketBox Vault use JKS keystore and ENC.dat and Shared.dat files.
 Newer versions of PicketBox consist of JCEKS keystore and VAULT.dat file.
+
+# Solution for:
+
+java.lang.RuntimeException: PBOX000137: Security Vault does not contain SecretKey entry under alias
